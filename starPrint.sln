@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "starPrint", "starPrint.csproj", "{FF0C2E42-39CA-4ED2-80C2-51125109E565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF0C2E42-39CA-4ED2-80C2-51125109E565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0C2E42-39CA-4ED2-80C2-51125109E565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0C2E42-39CA-4ED2-80C2-51125109E565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0C2E42-39CA-4ED2-80C2-51125109E565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5262E6BA-A9F8-4DCD-824E-F4FA8618BFAA}
+	EndGlobalSection
+EndGlobal
